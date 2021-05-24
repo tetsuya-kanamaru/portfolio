@@ -109,7 +109,6 @@ html, body {
 .left-content a {
   color: #bf794e;
   opacity: 0.8;
-  text-decoration: none;
 }
 
 .left-content a:hover {
@@ -155,12 +154,15 @@ html, body {
 }
 
 .right-content .lightgreen a {
-  text-decoration: none;
   color: #c1d8ac;
   opacity: 0.9;
 }
 
-.right-content .lightgreen a:hover {
-  opacity: 1;
+.right-content .green {
+  color: #008d00;
 }
+
+/* .right-content .lightgreen a:hover {
+  opacity: 1;
+} */
 
