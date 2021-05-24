@@ -159,10 +159,11 @@ html, body {
 }
 
 .right-content .green {
-  color: #008d00;
+  color: #65ab31;
+  opacity: 0.8;
 }
 
-/* .right-content .lightgreen a:hover {
+.right-content .lightgreen a:hover {
   opacity: 1;
-} */
+}
 
