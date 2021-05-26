@@ -167,3 +167,11 @@ html, body {
   opacity: 1;
 }
 
+.right-content .pink {
+  color: #da70d6;
+  opacity: 0.8;
+}
+
+.right-content .orange {
+  color: #bf794e;
+}
