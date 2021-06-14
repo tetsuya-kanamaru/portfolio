@@ -175,3 +175,12 @@ html, body {
 .right-content .orange {
   color: #bf794e;
 }
+
+.right-content .orange a{
+  color: #bf794e;
+  opacity: 0.8;
+}
+
+.right-content .orange a:hover{
+  opacity: 1;
+}
